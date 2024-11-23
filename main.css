@@ -1,0 +1,36 @@
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px auto;
+  width: 40%;
+}
+
+.points {
+  font-size: 22px;
+}
+
+.mistakes {
+  font-size: 22px;
+}
+
+.new-game-button {
+  padding: 10px;
+}
+
+.cell {
+  width: calc(25% - 10px);
+  aspect-ratio: 1/1;
+  margin: 5px;
+  display: block;
+
+  border-radius: 10%;
+  background-color: #f2d9a0;
+}
+
+.monster {
+  background-image: url(images/2dbd01ce16c0fa83cb67.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+/*# sourceMappingURL=main.css.map*/
