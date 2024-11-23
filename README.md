@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/lhau331xc4q3u1u5?svg=true)](https://ci.appveyor.com/project/Prokopenko11/ahj-homeworks-dom1)
